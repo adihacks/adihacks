@@ -31,6 +31,7 @@ Resources I Follow
 🔰 Twitter BugBounty Community
 🔰 HackerOne Disclosure Rportes
 🔰 Active BugHunter YouTube Channels
+
 ![Alt Text](https://github.com/remonsec/remonsec/blob/main/assets/deku_cry.gif)
 
 
