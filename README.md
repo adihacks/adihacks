@@ -9,6 +9,8 @@ Learning
 🔰 Bug Bounty
 🔰 Ios/android pentest
 🔰 Webapp Pentesting
+
+
 Hobbies
 🔰 Gaming Addict
 🔰 Watching Anime
@@ -43,8 +45,8 @@ So it only means I have to work Harder than other
 
 
 My profiles & Contacts
-🔰 Linkedin
-🔰 YouTube
-🔰 Twitter
-🔰 Medium
+🔰 [Linkedin](https://www.linkedin.com/in/adihacks-aditya-rawat-b12306bb/)
+🔰 [Medium](https://www.medium.com/adihacks)
+🔰 [Instagram](https://www.instagram.com/adihacks)
+🔰 [Website](https://www.adihacks.com)
 
