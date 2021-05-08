@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-Adihacks aka Aditya rawat
+Adihacks aka Aditya rawat</br>
 I am aditya rawat a 19 years old boy who study in Computer Science & do BugBounty as side activity
-GIF
-
-Learning
-🔰 CSE
-🔰 Bug Bounty
-🔰 Ios/android pentest
-🔰 Webapp Pentesting
 
 
-Hobbies
-🔰 Gaming Addict
-🔰 Watching Anime
-🔰 Explore The Internet
+Learning</br>
+🔰 CSE</br>
+🔰 Bug Bounty</br>
+🔰 Ios/android pentest</br>
+🔰 Webapp Pentesting</br>
+
+
+Hobbies</br>
+🔰 Gaming Addict</br>
+🔰 Watching Anime</br>
+🔰 Explore The Internet</br>
 
 
 Personal Intro
@@ -26,13 +26,13 @@ After seeing all the cool stuff of InfoSec, I start dreaming to become a Hacker.
 
 
 
-Resources I Follow
-🔰 PentesterLand
-🔰 Medium Writeups
-🔰 BugCrowd University
-🔰 Twitter BugBounty Community
-🔰 HackerOne Disclosure Rportes
-🔰 Active BugHunter YouTube Channels
+Resources I Follow</br>
+🔰 PentesterLand</br>
+🔰 Medium Writeups</br>
+🔰 BugCrowd University</br>
+🔰 Twitter BugBounty Community</br>
+🔰 HackerOne Disclosure Rportes</br>
+🔰 Active BugHunter YouTube Channels</br>
 
 ![Alt Text](https://github.com/remonsec/remonsec/blob/main/assets/deku_cry.gif)
 
@@ -44,9 +44,9 @@ So it only means I have to work Harder than other
 ![Alt Text](https://github.com/remonsec/remonsec/blob/main/assets/deku_ready.gif)
 
 
-My profiles & Contacts
-🔰 [Linkedin](https://www.linkedin.com/in/adihacks-aditya-rawat-b12306bb/)
-🔰 [Medium](https://www.medium.com/adihacks)
-🔰 [Instagram](https://www.instagram.com/adihacks)
-🔰 [Website](https://www.adihacks.com)
+My profiles & Contacts</br>
+🔰 [Linkedin](https://www.linkedin.com/in/adihacks-aditya-rawat-b12306bb/)</br>
+🔰 [Medium](https://www.medium.com/adihacks)</br>
+🔰 [Instagram](https://www.instagram.com/adihacks)</br>
+🔰 [Website](https://www.adihacks.com)</br>
 
