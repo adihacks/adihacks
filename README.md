@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Adihacks aka Aditya rawat</br>
+adihacks aka Aditya rawat</br>
 I am aditya rawat a 19 years old boy who study in Computer Science & do BugBounty as side activity
 
 
