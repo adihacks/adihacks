@@ -13,12 +13,11 @@ Learning</br>
 
 Hobbies</br>
 🔰 Gaming Addict</br>
-🔰 Watching Anime</br>
 🔰 Explore The Internet</br>
 
 
 Personal Intro
-I work a full-time 9-to-5 job while also earning additional income through bug bounty hunting and building my own business. My goal is to create multiple income streams, achieve financial independence, and eventually own my seven dream cars.
+UNLUCKY GUY
 
 ![Alt Text](https://github.com/remonsec/remonsec/blob/main/assets/deku.gif)
 
