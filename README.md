@@ -16,7 +16,7 @@ Hobbies</br>
 🔰 Explore The Internet</br>
 
 
-Personal Intro
+Personal Intro</br>
 UNLUCKY GUY
 
 ![Alt Text](https://github.com/remonsec/remonsec/blob/main/assets/deku.gif)
@@ -25,7 +25,6 @@ UNLUCKY GUY
 
 
 Resources I Follow</br>
-🔰 PentesterLand</br>
 🔰 Medium Writeups</br>
 🔰 BugCrowd University</br>
 🔰 Twitter BugBounty Community</br>
@@ -42,7 +41,7 @@ Well, it's true that I'm not as smart as some others. That just means I have to 
 
 
 My profiles & Contacts</br>
-🔰 [Linkedin](https://www.linkedin.com/in/adihacks-aditya-rawat-b12306bb/)</br>
+🔰 [Linkedin](https://www.linkedin.com/in/adityarawatadihacks/)</br>
 🔰 [Medium](https://www.medium.com/adihacks)</br>
 🔰 [Instagram](https://www.instagram.com/adihacks)</br>
 🔰 [Website](https://www.adihacks.com)</br>
